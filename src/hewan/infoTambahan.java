@@ -26,7 +26,7 @@ public class infoTambahan {
 	}
         
         public void cingku(){
-		System.out.println("Kucing saya namanya "+NamaKucing);
+		System.out.println("Kucingku aku beri nama "+NamaKucing);
 	}
 
 	public void arasu(){
@@ -34,6 +34,6 @@ public class infoTambahan {
 	}
 
 	public void rumu(){
-		System.out.println(NamaKucing+" berumur "+umur+" Bulan");
+		System.out.println(NamaKucing+" Memiliki umur "+umur+" Bulan");
 	}
 }
