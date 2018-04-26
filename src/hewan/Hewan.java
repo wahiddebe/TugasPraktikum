@@ -18,7 +18,7 @@ public class Hewan extends infoTambahan {// Biar bisa mengabil data dari class i
 
             infoTambahan mykucing = new infoTambahan();
             mykucing.Kucing("Hamtaro");
-            mykucing.Suara("Mbee");
+            mykucing.Suara("Mewong");
             mykucing.Umur(10);
             
             mykucing.cingku();
